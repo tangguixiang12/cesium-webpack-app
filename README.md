@@ -2,7 +2,7 @@
 
 cesium + webpack + vue 环境搭建
 
-运行结果是 cesium 的 helloWorld 页面
+运行结果是 cesium 的 helloWorld 页面, 就是一个地球
 
 使用步骤：
 1. 安装依赖：npm install
